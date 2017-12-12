@@ -1,0 +1,378 @@
+[00:00:45]: [Join Announcement] balalaboom
+[00:01:29]: [Join Announcement] AierLuosen
+[00:02:36]: [Join Announcement] 2633715068
+[00:02:45]: [Say] (KU_TtsjKcrU) AierLuosen: 夜璃試試看會不會卡~
+[00:04:11]: [Say] (KU_-79wImkp) 2633715068: ww
+[00:04:18]: [Say] (KU_-79wImkp) 2633715068: haihao
+[00:04:27]: [Say] (KU_uGVY9zVB) balalaboom: HIHI
+[00:04:30]: [Say] (KU_TtsjKcrU) AierLuosen: 目前不卡嗎~
+[00:04:36]: [Say] (KU_-79wImkp) 2633715068: 不怎么卡
+[00:05:03]: [Say] (KU_-79wImkp) 2633715068: 没有洞穴吗
+[00:05:10]: [Say] (KU_TtsjKcrU) AierLuosen: 友開
+[00:05:21]: [Say] (KU_-79wImkp) 2633715068: 哦哦，知道了
+[00:06:40]: [Say] (KU_-79wImkp) 2633715068: 在这里建家？
+[00:06:52]: [Say] (KU_TtsjKcrU) AierLuosen: 我們不會那麼快建加
+[00:06:57]: [Say] (KU_TtsjKcrU) AierLuosen: 先收資源
+[00:10:48]: [Say] (KU_-79wImkp) 2633715068: 万圣节地上这些东
+[00:11:12]: [Say] (KU_-79wImkp) 2633715068: 东西干嘛的
+[00:11:25]: [Say] (KU_TtsjKcrU) AierLuosen: 玩具 可以給豬王拿糖果
+[00:15:16]: [Leave Announcement] 2633715068
+[00:16:23]: [Join Announcement] 2633715068
+[00:18:12]: [Death Announcement] balalaboom 死亡，死因： 蝙蝠。她變成了一個令人毛骨悚然的鬼！
+[00:18:24]: [Say] (KU_TtsjKcrU) AierLuosen: XDD
+[00:18:34]: [Say] (KU_-79wImkp) 2633715068: 揉揉
+[00:18:40]: [Resurrect Announcement] balalaboom 復活自 惡魔之門.
+[00:18:55]: [Say] (KU_uGVY9zVB) balalaboom: TAT
+[00:19:07]: [Say] (KU_-79wImkp) 2633715068: 你去打犀牛吗
+[00:19:16]: [Say] (KU_uGVY9zVB) balalaboom: 老奶奶一上來就被巴死
+[00:19:26]: [Say] (KU_uGVY9zVB) balalaboom: 從地洞上來d
+[00:20:26]: [Say] (KU_-79wImkp) 2633715068: 上面有法杖陷阱
+[00:22:37]: [Join Announcement] 雷克
+[00:23:01]: [Say] (KU_UEtQ29K_) 雷克: 新局?
+[00:23:10]: [Say] (KU_TtsjKcrU) AierLuosen: 隊挖 玩萬聖節
+[00:23:10]: [Say] (KU_-79wImkp) 2633715068: 嗯
+[00:23:26]: [Say] (KU_UEtQ29K_) 雷克: 哦哦 我玩到11點嘿~~
+[00:23:37]: [Say] (KU_TtsjKcrU) AierLuosen: 好喔
+[00:23:40]: [Say] (KU_UEtQ29K_) 雷克: 然後我沒有耳機可以用 所以不進語音群喔QQ
+[00:23:52]: [Say] (KU_TtsjKcrU) AierLuosen: OKOK
+[00:27:29]: [Say] (KU_UEtQ29K_) 雷克: 謝謝
+[00:30:30]: [Death Announcement] 2633715068 死亡，死因： 觸手。她變成了一個令人毛骨悚然的鬼！
+[00:30:36]: [Say] (KU_UEtQ29K_) 雷克: QQ
+[00:31:10]: [Resurrect Announcement] 2633715068 復活自 雷克.
+[00:31:22]: [Say] (KU_-79wImkp) 2633715068: thank
+[00:31:25]: [Say] (KU_UEtQ29K_) 雷克: :)
+[00:31:38]: [Say] (KU_-79wImkp) 2633715068: 哈哈有延迟qwq
+[00:31:43]: [Say] (KU_UEtQ29K_) 雷克: XD
+[00:31:49]: [Say] (KU_uGVY9zVB) balalaboom: 殺蜘蛛了嗎雷克?
+[00:31:54]: [Say] (KU_UEtQ29K_) 雷克: 沒
+[00:32:00]: [Say] (KU_uGVY9zVB) balalaboom: 居然...
+[00:32:02]: [Say] (KU_UEtQ29K_) 雷克: 怎麼了嗎?
+[00:32:09]: [Say] (KU_UEtQ29K_) 雷克: 我撿到腺體 剛好可以用
+[00:32:12]: [Say] (KU_uGVY9zVB) balalaboom: 想說你救人啦
+[00:32:15]: [Say] (KU_UEtQ29K_) 雷克: XDDD
+[00:32:31]: [Say] (KU_UEtQ29K_) 雷克: 蜘蛛菁英戰士：未啟動
+[00:34:36]: [Say] (KU_UEtQ29K_) 雷克: QAQ
+[00:34:52]: [Say] (KU_UEtQ29K_) 雷克: 世界最遠的距離 相隔一片海
+[00:37:14]: [Say] (KU_uGVY9zVB) balalaboom: 雷克要什麼款的包包?
+[00:37:22]: [Say] (KU_UEtQ29K_) 雷克: 蜘蛛款!
+[00:37:32]: [Say] (KU_uGVY9zVB) balalaboom: 沒有
+[00:37:34]: [Say] (KU_UEtQ29K_) 雷克: QAQ
+[00:37:40]: [Say] (KU_TtsjKcrU) AierLuosen: 有格洛姆XD
+[00:37:49]: [Say] (KU_UEtQ29K_) 雷克: 好 就這個
+[00:37:55]: [Say] (KU_UEtQ29K_) 雷克: 感恩XD
+[00:38:05]: [Say] (KU_TtsjKcrU) AierLuosen: 玩具剪不起來
+[00:38:23]: [Say] (KU_UEtQ29K_) 雷克: (工具XDD
+[00:38:25]: [Say] (KU_-79wImkp) 2633715068: 好多糖XD
+[00:40:14]: [Death Announcement] balalaboom 死亡，死因： 爬行恐懼。她變成了一個令人毛骨悚然的鬼！
+[00:40:28]: [Join Announcement] 提爾詩
+[00:40:29]: [Resurrect Announcement] balalaboom 復活自 AierLuosen.
+[00:40:40]: [Say] (KU_TtsjKcrU) AierLuosen: 謝理智!
+[00:40:53]: [Say] (KU_uGVY9zVB) balalaboom: 謝大姊
+[00:42:20]: [Say] (KU_UEtQ29K_) 雷克: 糖糖XD
+[00:42:28]: [Say] (KU_-79wImkp) 2633715068: 哈哈
+[00:47:37]: [Say] (KU_UEtQ29K_) 雷克: 怪了 我沒有禮物包
+[00:48:04]: [Say] (KU_UEtQ29K_) 雷克: 不是第一個五分鐘嗎
+[00:48:14]: [Say] (KU_BIj2U1ZB) 提爾詩: 15分鐘
+[00:48:18]: [Say] (KU_UEtQ29K_) 雷克: 好吧XD
+[00:48:29]: [Say] (KU_UEtQ29K_) 雷克: RRRR 提爾詩耶
+[00:48:32]: [Say] (KU_-79wImkp) 2633715068: 有没有树枝
+[00:48:35]: [Say] (KU_UEtQ29K_) 雷克: 我沒注意到你進來了
+[00:48:38]: [Say] (KU_UEtQ29K_) 雷克: 我有五個
+[00:48:39]: [Say] (KU_BIj2U1ZB) 提爾詩: wwww
+[00:49:33]: [Say] (KU_TtsjKcrU) AierLuosen: 豬王住
+[00:50:10]: [Say] (KU_-79wImkp) 2633715068: 青蛙池塘往右
+[00:54:28]: [Say] (KU_UEtQ29K_) 雷克: 家有要蓋在哪嗎?
+[00:54:32]: [Say] (KU_TtsjKcrU) AierLuosen: 豬王這
+[00:54:38]: [Say] (KU_uGVY9zVB) balalaboom: 來
+[00:54:39]: [Say] (KU_UEtQ29K_) 雷克: 哦哦
+[00:58:04]: [Say] (KU_TtsjKcrU) AierLuosen: 有木炭嗎
+[00:58:11]: [Say] (KU_UEtQ29K_) 雷克: 我有一個 Kappa
+[00:58:17]: [Say] (KU_-79wImkp) 2633715068: 没有
+[00:58:57]: [Say] (KU_TtsjKcrU) AierLuosen: 兩個XD
+[00:59:01]: [Say] (KU_UEtQ29K_) 雷克: xdd
+[01:00:00]: [Say] (KU_UEtQ29K_) 雷克: .
+[01:00:33]: [Say] (KU_UEtQ29K_) 雷克: 我還是要說
+[01:00:37]: [Say] (KU_UEtQ29K_) 雷克: 去他的豬人
+[01:02:14]: [Say] (KU_UEtQ29K_) 雷克: e0
+[01:02:21]: [Say] (KU_UEtQ29K_) 雷克: 乾
+[01:02:29]: [Say] (KU_UEtQ29K_) 雷克: 三樹精
+[01:04:11]: [Say] (KU_-79wImkp) 2633715068: 我卡L
+[01:04:43]: [Say] (KU_TtsjKcrU) AierLuosen: 給豬王盡量黃昏給
+[01:04:48]: [Say] (KU_TtsjKcrU) AierLuosen: 豬會吃糖果
+[01:04:53]: [Say] (KU_UEtQ29K_) 雷克: 好
+[01:04:55]: [Leave Announcement] 2633715068
+[01:05:42]: [Skin Announcement] 雷克 body_toga_white_pure
+[01:05:51]: [Say] (KU_UEtQ29K_) 雷克: 羅馬OAO
+[01:05:57]: [Say] (KU_uGVY9zVB) balalaboom: 帥喔
+[01:06:03]: [Say] (KU_TtsjKcrU) AierLuosen: 有木頭嗎
+[01:07:37]: [Death Announcement] balalaboom 死亡，死因： 爬行恐懼。她變成了一個令人毛骨悚然的鬼！
+[01:07:50]: [Say] (KU_uGVY9zVB) balalaboom: 先救糖困
+[01:07:58]: [Say] (KU_TtsjKcrU) AierLuosen: XDD
+[01:08:16]: [Join Announcement] 2633715068
+[01:12:27]: [Say] (KU_-79wImkp) 2633715068: 谁做的包包？可以送我吗XD
+[01:12:33]: [Say] (KU_UEtQ29K_) 雷克: 蝙蝠嗎
+[01:12:37]: [Say] (KU_UEtQ29K_) 雷克: 那我做的 給你XD
+[01:12:39]: [Say] (KU_-79wImkp) 2633715068: 嗯
+[01:13:06]: [Say] (KU_UEtQ29K_) 雷克: 棒 我喜歡這大姊
+[01:13:12]: [Say] (KU_TtsjKcrU) AierLuosen: 帥~
+[01:13:12]: [Say] (KU_UEtQ29K_) 雷克: 這樣 沒有威脅!
+[01:14:16]: [Say] (KU_-79wImkp) 2633715068: dog？
+[01:14:24]: [Say] (KU_TtsjKcrU) AierLuosen: 梗狗狗剛過了
+[01:14:25]: [Say] (KU_-79wImkp) 2633715068: 谁有木头
+[01:14:38]: [Say] (KU_-79wImkp) 2633715068: thank
+[01:15:30]: [Resurrect Announcement] balalaboom 復活自 惡魔之門.
+[01:16:13]: [Say] (KU_UEtQ29K_) 雷克: 好詭異
+[01:16:29]: [Say] (KU_TtsjKcrU) AierLuosen: 可惡 沒有嘲諷表情
+[01:16:30]: [Say] (KU_TtsjKcrU) AierLuosen: XDD
+[01:16:37]: [Say] (KU_UEtQ29K_) 雷克: XDDD
+[01:16:49]: [Say] (KU_UEtQ29K_) 雷克: 天啊 真的好詭異XD
+[01:16:58]: [Say] (KU_TtsjKcrU) AierLuosen: 我覺得蠻搭得
+[01:17:03]: [Say] (KU_UEtQ29K_) 雷克: 搭配浴袍?
+[01:17:13]: [Say] (KU_UEtQ29K_) 雷克: 羅馬長袍才對
+[01:19:28]: [Say] (KU_UEtQ29K_) 雷克: 蜘蛛巢穴要放最下面嗎?
+[01:19:40]: [Say] (KU_TtsjKcrU) AierLuosen: cl387
+[01:19:43]: [Say] (KU_TtsjKcrU) AierLuosen: 好啊
+[01:20:14]: [Say] (KU_UEtQ29K_) 雷克: 無辜被貓抓
+[01:27:00]: [Skin Announcement] AierLuosen hand_shortgloves_blue_cornflower
+[01:29:00]: [Skin Announcement] 提爾詩 body_wickerbottom_lightninggoat
+[01:29:05]: [Say] (KU_UEtQ29K_) 雷克: ...
+[01:29:10]: [Say] (KU_TtsjKcrU) AierLuosen: ...
+[01:29:13]: [Say] (KU_UEtQ29K_) 雷克: ...........
+[01:29:16]: [Say] (KU_uGVY9zVB) balalaboom: ....................
+[01:29:17]: [Say] (KU_TtsjKcrU) AierLuosen: ..................
+[01:29:23]: [Say] (KU_UEtQ29K_) 雷克: ...............................
+[01:29:27]: [Say] (KU_UEtQ29K_) 雷克: 好好喔..
+[01:29:33]: [Say] (KU_TtsjKcrU) AierLuosen: (怨念很深
+[01:29:36]: [Say] (KU_UEtQ29K_) 雷克: +1..
+[01:29:37]: [Say] (KU_BIj2U1ZB) 提爾詩: 怕.jpg
+[01:29:38]: [Say] (KU_TtsjKcrU) AierLuosen: ...........................
+[01:29:45]: [Say] (KU_uGVY9zVB) balalaboom: (已怨恨
+[01:29:47]: [Say] (KU_UEtQ29K_) 雷克: 那什麼裝?
+[01:29:52]: [Say] (KU_UEtQ29K_) 雷克: 長袍?
+[01:29:53]: [Say] (KU_TtsjKcrU) AierLuosen: 阿嬤的店楊
+[01:29:56]: [Say] (KU_uGVY9zVB) balalaboom: 狗狗裝
+[01:29:56]: [Say] (KU_TtsjKcrU) AierLuosen: 電羊
+[01:29:58]: [Say] (KU_UEtQ29K_) 雷克: ...
+[01:30:09]: [Say] (KU_TtsjKcrU) AierLuosen: 有狗狗我一定買
+[01:30:19]: [Death Announcement] 雷克 死亡，死因： 浣熊貓。他變成了一個令人毛骨悚然的鬼！
+[01:30:19]: [Say] (KU_UEtQ29K_) 雷克: .
+[01:30:31]: [Say] (KU_uGVY9zVB) balalaboom: XDDDD
+[01:30:38]: [Say] (KU_UEtQ29K_) 雷克: 臭貓..
+[01:31:03]: [Say] (KU_UEtQ29K_) 雷克: 他還知道要襯托帽子時打我= =
+[01:31:04]: [Resurrect Announcement] 雷克 復活自 AierLuosen.
+[01:31:12]: [Say] (KU_UEtQ29K_) 雷克: 趁我脫帽子
+[01:31:19]: [Say] (KU_TtsjKcrU) AierLuosen: XDD
+[01:32:05]: [Say] (KU_UEtQ29K_) 雷克: 想睡 可是想等第二個禮物包出現
+[01:33:48]: [Say] (KU_UEtQ29K_) 雷克: 這是我的大便(X
+[01:33:52]: [Say] (KU_TtsjKcrU) AierLuosen: XDD
+[01:33:58]: [Say] (KU_UEtQ29K_) 雷克: 醞釀已久
+[01:36:42]: [Say] (KU_-79wImkp) 2633715068: 找到织影者的地形了
+[01:36:48]: [Say] (KU_TtsjKcrU) AierLuosen: 恩恩
+[01:39:55]: [Say] (KU_UEtQ29K_) 雷克: 打瞌睡
+[01:41:07]: [Say] (KU_UEtQ29K_) 雷克: 我上樓買個葡萄汁喝
+[01:42:03]: [Say] (KU_-79wImkp) 2633715068: 我差不多要退了
+[01:42:08]: [Say] (KU_TtsjKcrU) AierLuosen: 好喔 晚安~
+[01:42:15]: [Say] (KU_TtsjKcrU) AierLuosen: 你下次打遠古犀牛嗎
+[01:42:18]: [Say] (KU_uGVY9zVB) balalaboom: 晚安
+[01:43:47]: [Say] (KU_UEtQ29K_) 雷克: !
+[01:43:55]: [Skin Announcement] 雷克 feet_sneakers_orange_carrot
+[01:44:03]: [Say] (KU_UEtQ29K_) 雷克: OAO
+[01:44:06]: [Say] (KU_TtsjKcrU) AierLuosen: QAQ
+[01:44:09]: [Say] (KU_UEtQ29K_) 雷克: OAO(眼神死)
+[01:44:11]: [Say] (KU_uGVY9zVB) balalaboom: 生77
+[01:44:15]: [Skin Announcement] 2633715068 waxwell_krampus_d
+[01:44:20]: [Say] (KU_UEtQ29K_) 雷克: 幹
+[01:44:21]: [Say] (KU_UEtQ29K_) 雷克: QQ
+[01:44:25]: [Say] (KU_-79wImkp) 2633715068: qwq
+[01:44:26]: [Say] (KU_TtsjKcrU) AierLuosen: e乾!!!!!!!
+[01:44:28]: [Say] (KU_uGVY9zVB) balalaboom: ...............................................
+[01:44:30]: [Say] (KU_BIj2U1ZB) 提爾詩: wwwwww
+[01:44:30]: [Say] (KU_TtsjKcrU) AierLuosen: 麥叔!!!!
+[01:44:34]: [Say] (KU_TtsjKcrU) AierLuosen: 啊啊啊啊啊啊\
+[01:44:35]: [Say] (KU_UEtQ29K_) 雷克: 太靠背了
+[01:44:39]: [Say] (KU_TtsjKcrU) AierLuosen: 生氣
+[01:44:43]: [Say] (KU_-79wImkp) 2633715068: 可不可以送
+[01:44:47]: [Say] (KU_uGVY9zVB) balalaboom: 這局是怎麼了?
+[01:44:49]: [Say] (KU_TtsjKcrU) AierLuosen: 給我QQ
+[01:44:59]: [Say] (KU_uGVY9zVB) balalaboom: 都不給房主
+[01:45:00]: [Say] (KU_-79wImkp) 2633715068: 我送你吧
+[01:45:07]: [Say] (KU_uGVY9zVB) balalaboom: !!!!!!!!!!!
+[01:45:11]: [Say] (KU_TtsjKcrU) AierLuosen: 謝夜璃QQ
+[01:45:12]: [Say] (KU_UEtQ29K_) 雷克: !!
+[01:45:22]: [Say] (KU_TtsjKcrU) AierLuosen: 我拿東西跟你換
+[01:45:41]: [Say] (KU_UEtQ29K_) 雷克: 之豬頭QQ 可惡
+[01:45:52]: [Say] (KU_UEtQ29K_) 雷克: 現在理智18 我看見附近有三隻黑暗生物在蠕動
+[01:47:43]: [Say] (KU_uGVY9zVB) balalaboom: 天啊...好爽喔
+[01:47:56]: [Say] (KU_uGVY9zVB) balalaboom: 我想抽老奶奶頭
+[01:48:06]: [Say] (KU_-79wImkp) 2633715068: 猪人捏
+[01:48:12]: [Say] (KU_UEtQ29K_) 雷克: 欠殺
+[01:48:14]: [Say] (KU_TtsjKcrU) AierLuosen: 全敲掉了XDD
+[01:48:21]: [Say] (KU_TtsjKcrU) AierLuosen: 因為有蜘蛛
+[01:48:24]: [Say] (KU_UEtQ29K_) 雷克: 窩豪港動
+[01:48:25]: [Say] (KU_TtsjKcrU) AierLuosen: 上方有一棟
+[01:48:34]: [Say] (KU_UEtQ29K_) 雷克: 這一定是為了我敲QWQ
+[01:48:39]: [Say] (KU_TtsjKcrU) AierLuosen: 對XD
+[01:48:43]: [Say] (KU_UEtQ29K_) 雷克: 一起去跟蜘蛛當好朋友QWQ
+[01:48:49]: [Say] (KU_TtsjKcrU) AierLuosen: 雷克會被殺到爆(?
+[01:48:52]: [Say] (KU_UEtQ29K_) 雷克: XDDD
+[01:49:16]: [Say] (KU_-79wImkp) 2633715068: 换粪便
+[01:49:22]: [Say] (KU_UEtQ29K_) 雷克: 波蘭餃子怎麼做 我忘了公式
+[01:49:30]: [Say] (KU_BIj2U1ZB) 提爾詩: 菜肉蛋
+[01:49:34]: [Say] (KU_-79wImkp) 2633715068: 先退了明天有课
+[01:49:38]: [Say] (KU_uGVY9zVB) balalaboom: 菜.肉.蛋.填充
+[01:49:38]: [Say] (KU_TtsjKcrU) AierLuosen: 好喔
+[01:49:44]: [Say] (KU_UEtQ29K_) 雷克: 好 晚安
+[01:49:47]: [Say] (KU_uGVY9zVB) balalaboom: 晚安
+[01:49:52]: [Say] (KU_-79wImkp) 2633715068: 晚安www
+[01:49:57]: [Leave Announcement] 2633715068
+[01:50:22]: [Say] (KU_UEtQ29K_) 雷克: 我應該也準備睡了
+[01:50:34]: [Say] (KU_UEtQ29K_) 雷克: 第二個禮物沒有QWQ
+[01:56:02]: [Say] (KU_UEtQ29K_) 雷克: 好 我該下了QQ
+[01:56:07]: [Say] (KU_BIj2U1ZB) 提爾詩: 晚安
+[01:56:12]: [Say] (KU_uGVY9zVB) balalaboom: 晚安
+[01:56:17]: [Say] (KU_UEtQ29K_) 雷克: 我把背包留下
+[01:56:32]: [Say] (KU_UEtQ29K_) 雷克: 晚安
+[01:56:51]: [Leave Announcement] 雷克
+[02:23:20]: [Join Announcement] adai1198
+[02:23:25]: [Say] (KU_vIIO9TCg) adai1198: 竟然被我猜中密碼
+[02:23:42]: [Say] (KU_vIIO9TCg) adai1198: 0.0
+[02:23:49]: [Say] (KU_vIIO9TCg) adai1198: 要玩啥
+[02:24:02]: [Say] (KU_vIIO9TCg) adai1198: 0..0
+[02:24:38]: [Say] (KU_vIIO9TCg) adai1198: 我已經忘記  原本的角色有什麼功能了
+[02:25:04]: [Say] (KU_vIIO9TCg) adai1198: 我要玩麥叔
+[02:26:25]: [Say] (KU_vIIO9TCg) adai1198: ㄏㄟˋ晚上
+[02:27:06]: [Say] (KU_vIIO9TCg) adai1198: 竟然是中文對話
+[02:27:21]: [Say] (KU_TtsjKcrU) AierLuosen: OWO+
+[02:27:26]: [Say] (KU_vIIO9TCg) adai1198: 0W0+
+[02:27:35]: [Say] (KU_vIIO9TCg) adai1198: OWO+
+[02:27:43]: [Say] (KU_vIIO9TCg) adai1198: O0O0O0O0O0
+[02:27:57]: [Say] (KU_uGVY9zVB) balalaboom: =_=+
+[02:28:00]: [Say] (KU_vIIO9TCg) adai1198: 猜密碼
+[02:28:11]: [Say] (KU_uGVY9zVB) balalaboom: 不給他
+[02:28:14]: [Say] (KU_vIIO9TCg) adai1198: 會扣
+[02:28:22]: [Say] (KU_TtsjKcrU) AierLuosen: 抱歉 我給了(?
+[02:28:27]: [Say] (KU_TtsjKcrU) AierLuosen: GGGGG
+[02:28:29]: [Say] (KU_uGVY9zVB) balalaboom: XDD
+[02:28:31]: [Say] (KU_vIIO9TCg) adai1198: Kapp
+[02:28:32]: [Say] (KU_vIIO9TCg) adai1198: kappa
+[02:28:34]: [Say] (KU_vIIO9TCg) adai1198: Kappa*
+[02:28:42]: [Join Announcement] 大貓傑尼 gigantic cat Ze-Ni
+[02:28:49]: [Say] (KU_vIIO9TCg) adai1198: 這名字也太長
+[02:28:57]: [Say] (KU_vIIO9TCg) adai1198: 0.0
+[02:30:28]: [Say] (KU_vIIO9TCg) adai1198: 我已經開始懷念 The Forge ㄌ
+[02:30:31]: [Say] (KU_TtsjKcrU) AierLuosen: 有看到齒輪打一下~
+[02:31:29]: [Say] (KU_vIIO9TCg) adai1198: 我看到一個小基地
+[02:32:15]: [Say] (KU_vIIO9TCg) adai1198: 那個字念作 號
+[02:32:20]: [Say] (KU_vIIO9TCg) adai1198: 十字號
+[02:32:31]: [Say] (KU_vIIO9TCg) adai1198: 鎬
+[02:32:34]: [Skin Announcement] 大貓傑尼 gigantic cat Ze-Ni body_trimmed_blouse_yellow_flax
+[02:32:39]: [Say] (KU_vIIO9TCg) adai1198: 腦子都想著搞
+[02:32:42]: [Say] (KU_vIIO9TCg) adai1198: 搞什麼
+[02:32:58]: [Say] (KU_vIIO9TCg) adai1198: 我都叫敲子
+[02:33:12]: [Say] (KU_vIIO9TCg) adai1198: 十字鎬!
+[02:33:38]: [Say] (KU_vIIO9TCg) adai1198: 剛剛是英文XD?
+[02:33:41]: [Say] (KU_vIIO9TCg) adai1198: llo
+[02:33:42]: [Say] (KU_vIIO9TCg) adai1198: lol
+[02:33:48]: [Say] (KU_vIIO9TCg) adai1198: 胚改?
+[02:34:01]: [Say] (KU_vIIO9TCg) adai1198: 批可X
+[02:34:12]: [Say] (KU_vIIO9TCg) adai1198: 念一次X
+[02:34:20]: [Say] (KU_vIIO9TCg) adai1198: 念一次"X"
+[02:34:29]: [Say] (KU_vIIO9TCg) adai1198: 就是那個
+[02:34:39]: [Say] (KU_vIIO9TCg) adai1198: 念一次批可
+[02:34:54]: [Say] (KU_vIIO9TCg) adai1198: 念一次"X"
+[02:35:00]: [Say] (KU_vIIO9TCg) adai1198: 念一次"批可"
+[02:35:07]: [Say] (KU_vIIO9TCg) adai1198: 念一次"批可"   中文!!!!
+[02:35:18]: [Say] (KU_vIIO9TCg) adai1198: 念一次"批可X"
+[02:35:25]: [Say] (KU_vIIO9TCg) adai1198: 念快一點
+[02:35:35]: [Say] (KU_vIIO9TCg) adai1198: <3
+[02:35:45]: [Say] (KU_vIIO9TCg) adai1198: 批ㄎㄟˇ渴死
+[02:35:49]: [Join Announcement] (tw)Liu
+[02:35:54]: [Say] (KU_vIIO9TCg) adai1198: 念一次XD
+[02:35:58]: [Say] (KU_vIIO9TCg) adai1198: 批ㄎㄟˇ渴死
+[02:36:12]: [Say] (KU_vIIO9TCg) adai1198: 教人英文好好玩
+[02:36:23]: [Leave Announcement] (tw)Liu
+[02:36:28]: [Say] (KU_vIIO9TCg) adai1198: 厲害吧
+[02:36:31]: [Say] (KU_vIIO9TCg) adai1198: 我的鳥會大變
+[02:36:32]: [Say] (KU_vIIO9TCg) adai1198: .
+[02:36:33]: [Say] (KU_vIIO9TCg) adai1198: .
+[02:36:34]: [Say] (KU_vIIO9TCg) adai1198: .y
+[02:36:34]: [Say] (KU_vIIO9TCg) adai1198: .
+[02:36:34]: [Say] (KU_vIIO9TCg) adai1198: .y
+[02:36:34]: [Say] (KU_vIIO9TCg) adai1198: .y
+[02:36:35]: [Say] (KU_vIIO9TCg) adai1198: .y
+[02:36:35]: [Say] (KU_vIIO9TCg) adai1198: .
+[02:36:35]: [Say] (KU_vIIO9TCg) adai1198: .y
+[02:36:36]: [Say] (KU_vIIO9TCg) adai1198: .
+[02:37:33]: [Say] (KU_vIIO9TCg) adai1198: 我要 glommer 包
+[02:38:07]: [Say] (KU_vIIO9TCg) adai1198: 我不知道你要幾 ger
+[02:38:48]: [Say] (KU_vIIO9TCg) adai1198: 我要吃ㄉ
+[02:38:51]: [Say] (KU_vIIO9TCg) adai1198: 我是新手
+[02:38:52]: [Join Announcement] (tw)Liu
+[02:39:03]: [Say] (KU_vIIO9TCg) adai1198: 吃ㄉ咧
+[02:39:26]: [Say] (KU_vIIO9TCg) adai1198: 被女生圍繞
+[02:39:31]: [Say] (KU_vIIO9TCg) adai1198: ㄉ感覺
+[02:39:35]: [Say] (KU_vIIO9TCg) adai1198: 是夜店
+[02:39:47]: [Say] (KU_vIIO9TCg) adai1198: 貼身感
+[02:40:06]: [Say] (KU_vIIO9TCg) adai1198: 我想當國中老師  所以我覺得教人英文滿好玩的
+[02:40:23]: [Say] (KU_vIIO9TCg) adai1198: 批可X
+[02:40:52]: [Say] (KU_vIIO9TCg) adai1198: 念一次 批凱渴s
+[02:41:03]: [Say] (KU_vIIO9TCg) adai1198: 批凱矮可s
+[02:41:09]: [Say] (KU_vIIO9TCg) adai1198: 我覺得這個很像!
+[02:41:14]: [Say] (KU_vIIO9TCg) adai1198: "批凱矮可s"
+[02:41:19]: [Say] (KU_vIIO9TCg) adai1198: s念私就好
+[02:42:01]: [Say] (KU_vIIO9TCg) adai1198: 為什麼你們有SKIN
+[02:43:04]: [Say] (KU_2JhFMG24) 大貓傑尼 gigantic cat Ze-Ni: 我要背包 你有哪種的
+[02:43:20]: [Say] (KU_vIIO9TCg) adai1198: 為什麼你有麥德拉草睡衣
+[02:43:23]: [Say] (KU_vIIO9TCg) adai1198: BabyRage
+[02:43:33]: [Say] (KU_vIIO9TCg) adai1198: 超酷的暗影服飾誰翻的
+[02:43:52]: [Say] (KU_vIIO9TCg) adai1198: 好冷
+[02:44:02]: [Say] (KU_vIIO9TCg) adai1198: 有樹種子ㄇ
+[02:44:21]: [Say] (KU_vIIO9TCg) adai1198: 我要砍樹
+[02:45:18]: [Say] (KU_vIIO9TCg) adai1198: 沒有樹枝ㄌ
+[02:45:22]: [Say] (KU_vIIO9TCg) adai1198: 要3個
+[02:45:25]: [Say] (KU_vIIO9TCg) adai1198: <3
+[02:46:39]: [Say] (KU_vIIO9TCg) adai1198: 你要尿尿?
+[02:46:54]: [Say] (KU_vIIO9TCg) adai1198: R
+[02:47:25]: [Say] (KU_vIIO9TCg) adai1198: 我臉雖然很紅  但是我還是會冷  為什麼降
+[02:47:45]: [Say] (KU_vIIO9TCg) adai1198: 我!
+[02:47:48]: [Say] (KU_2JhFMG24) 大貓傑尼 gigantic cat Ze-Ni: cj4g4
+[02:47:51]: [Say] (KU_2JhFMG24) 大貓傑尼 gigantic cat Ze-Ni: 護士!
+[02:49:29]: [Say] (KU_vIIO9TCg) adai1198: 我臉都紅ㄌ
+[02:49:33]: [Leave Announcement] AierLuosen
+[02:50:27]: [Say] (KU_vIIO9TCg) adai1198: 有禮 VOO
+[02:51:26]: [Say] (KU_2JhFMG24) 大貓傑尼 gigantic cat Ze-Ni: 神啊給我好禮物!
+[02:53:10]: [Say] (KU_vIIO9TCg) adai1198: 是讀書
+[02:53:17]: [Say] (KU_vIIO9TCg) adai1198: 你當知識是玩具?
+[02:53:19]: [Say] (KU_vIIO9TCg) adai1198: BabyRage
+[02:53:28]: [Say] (KU_2JhFMG24) 大貓傑尼 gigantic cat Ze-Ni: 唱衰
+[02:53:33]: [Say] (KU_vIIO9TCg) adai1198: OpieOP
+[02:53:55]: [Say] (KU_vIIO9TCg) adai1198:  I have 4 齒輪s.
+[02:56:45]: [Say] (KU_vIIO9TCg) adai1198:  I have 10 齒輪s.
+[02:56:51]: [Join Announcement] AierLuosen
+[02:57:22]: [Say] (KU_vIIO9TCg) adai1198:  I have a 礦工帽 with 99% durability.
+[02:57:40]: [Say] (KU_vIIO9TCg) adai1198:  I require additional science to open this gift!
+[02:58:48]: [Skin Announcement] adai1198 body_tshirt_red_higgsbury
+[03:01:53]: [Say] (KU_vIIO9TCg) adai1198:  I have a 長手套長手套.
+[03:02:04]: [Say] (KU_vIIO9TCg) adai1198: 炯
+[03:05:23]: [Say] (KU_vIIO9TCg) adai1198:  We have a 怪物千層麵 in this 冰箱.
+[03:06:01]: [Say] (KU_vIIO9TCg) adai1198: 小醜羊
+[03:06:13]: [Say] (KU_vIIO9TCg) adai1198: 阿對我還沒去翻譯
+[03:06:23]: [Say] (KU_vIIO9TCg) adai1198: 要打冬王再找我?
+[03:06:43]: [Leave Announcement] adai1198
+[03:10:34]: [Skin Announcement] (tw)Liu body_flannel_purple_grape
+[03:24:25]: [Say] (KU_TtsjKcrU) AierLuosen: Goop Canister
+[03:25:01]: [Say] (KU_TtsjKcrU) AierLuosen: 香膏罐  or  膏油罐
+[03:25:09]: [Say] (KU_TtsjKcrU) AierLuosen: 或 瓶
+[03:25:17]: [Say] (KU_2JhFMG24) 大貓傑尼 gigantic cat Ze-Ni: 瓶瓶罐罐
+[03:29:11]: [Leave Announcement] 大貓傑尼 gigantic cat Ze-Ni
+[03:35:15]: [Skin Announcement] 提爾詩 body_polo_white_marble
+[03:46:49]: [Say] (KU_TtsjKcrU) AierLuosen: 少蛇跟手套
+[03:50:53]: [Death Announcement] (tw)Liu 死亡，死因： 冰凍。她變成了一個令人毛骨悚然的鬼！
+[03:51:14]: [Resurrect Announcement] (tw)Liu 復活自 AierLuosen.
+[03:57:44]: [Say] (KU_TtsjKcrU) AierLuosen: 萬聖節快樂!
+[04:00:49]: [Leave Announcement] (tw)Liu
+[04:03:43]: [Death Announcement] balalaboom 死亡，死因： 獨眼巨鹿。她變成了一個令人毛骨悚然的鬼！
+[04:04:43]: [Resurrect Announcement] balalaboom 復活自 提爾詩.
+[04:06:03]: [Skin Announcement] 提爾詩 hand_shortgloves_blue_cornflower
+[04:14:23]: [Leave Announcement] AierLuosen
+[04:14:56]: [Leave Announcement] balalaboom
