@@ -1,2 +1,2 @@
-[00:00:55]: [Join Announcement] balalaboom
-[00:03:32]: [Leave Announcement] balalaboom
+[00:01:54]: [Join Announcement] balalaboom
+[00:02:13]: [Leave Announcement] balalaboom

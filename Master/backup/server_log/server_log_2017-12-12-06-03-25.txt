@@ -1,0 +1,126 @@
+[00:00:00]: PersistRootStorage is now /home/balalaboom/.klei//DoNotStarveTogether/boom_dst2/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 239925
+[00:00:00]: Current time: Tue Dec 12 06:00:30 2017
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: dst
+[00:00:00]: Release(Kernel) Version: 4.10.0-38-generic
+[00:00:00]: Kernel Build Timestamp: #42-Ubuntu SMP Tue Oct 10 13:24:27 UTC 2017
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 239925 LINUX
+[00:00:00]: Build Date: 2937
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster boom_dst2 -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: ProfileIndex:4.05
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /home/balalaboom/.klei//DoNotStarveTogether/boom_dst2/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/balalaboom/.klei//DoNotStarveTogether/boom_dst2/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /home/balalaboom/.klei//DoNotStarveTogether/boom_dst2/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /home/balalaboom/.klei//DoNotStarveTogether/boom_dst2/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/balalaboom/.klei//DoNotStarveTogether/boom_dst2/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: THREAD - started 'GAClient' (4131281728)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: THREAD - started 'StreamInput' (4125788992)
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: DownloadMods(3)
+[00:00:01]: Download server mod 1111711682
+[00:00:02]: ... Directory [images]
+[00:00:02]: ... File [cht_fix.lua]
+[00:00:02]: ... File [modicon.xml]
+[00:00:02]: ... File [modinfo.lua]
+[00:00:02]: ... File [modmain.lua]
+[00:00:02]: ... File [modicon.tex]
+[00:00:02]: ... File [DST_cht.po]
+[00:00:02]: ... File [tradescreen_overflow.tex]
+[00:00:02]: ... File [skinsscreen.xml]
+[00:00:02]: ... File [skinsscreen.tex]
+[00:00:02]: ... File [customisation.xml]
+[00:00:02]: ... File [customisation.tex]
+[00:00:02]: ... File [tradescreen_overflow.xml]
+[00:00:02]: ... File [tradescreen.xml]
+[00:00:02]: DelFile [../mods/workshop-1111711682/images/tradescreen_overflow.xml] -1: FAILED
+[00:00:02]: DelFile [../mods/workshop-1111711682/images/tradescreen.xml] -1: FAILED
+[00:00:02]: DelDirectory [../mods/workshop-1111711682/images] -1: FAILED
+[00:00:02]: DelFile [../mods/workshop-1111711682/cht_fix.lua] -1: FAILED
+[00:00:02]: DelFile [../mods/workshop-1111711682/modicon.xml] -1: FAILED
+[00:00:02]: DelFile [../mods/workshop-1111711682/modinfo.lua] -1: FAILED
+[00:00:02]: DelFile [../mods/workshop-1111711682/modmain.lua] -1: FAILED
+[00:00:02]: DelFile [../mods/workshop-1111711682/modicon.tex] -1: FAILED
+[00:00:02]: DelFile [../mods/workshop-1111711682/DST_cht.po] -1: FAILED
+[00:00:02]: DelDirectory [../mods/workshop-1111711682] -1: FAILED
+[00:00:02]: cWorkshopMod::UnzipMod ../mods/workshop-1111711682
+[00:00:02]: Download server mod 362175979
+[00:00:03]: Download server mod 378160973
+[00:00:03]: modoverrides.lua enabling workshop-1111711682	
+[00:00:03]: modoverrides.lua enabling workshop-378160973	
+[00:00:03]: modoverrides.lua enabling workshop-362175979	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:03]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:03]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:03]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:03]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:03]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:03]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:03]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:03]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:03]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:03]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:03]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:03]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:03]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:03]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:03]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
+[00:00:03]: [adai] 
