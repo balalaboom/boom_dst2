@@ -701,3 +701,435 @@
 [00:11:42]:   MasterBind: (null)
 [00:11:42]:   MasterPort: 10888
 [00:11:42]: [Shard] Connecting to master...
+[00:11:52]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:11:57]: About to start a shard with these settings:
+[00:11:57]:   ShardName: Caves
+[00:11:57]:   ShardID: 1257667657
+[00:11:57]:   ShardRole: SLAVE
+[00:11:57]:   MasterHost: 127.0.0.1
+[00:11:57]:   MasterBind: (null)
+[00:11:57]:   MasterPort: 10888
+[00:11:57]: [Shard] Connecting to master...
+[00:12:07]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:12:12]: About to start a shard with these settings:
+[00:12:12]:   ShardName: Caves
+[00:12:12]:   ShardID: 1257667657
+[00:12:12]:   ShardRole: SLAVE
+[00:12:12]:   MasterHost: 127.0.0.1
+[00:12:12]:   MasterBind: (null)
+[00:12:12]:   MasterPort: 10888
+[00:12:12]: [Shard] Connecting to master...
+[00:12:22]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:12:27]: About to start a shard with these settings:
+[00:12:27]:   ShardName: Caves
+[00:12:27]:   ShardID: 1257667657
+[00:12:27]:   ShardRole: SLAVE
+[00:12:27]:   MasterHost: 127.0.0.1
+[00:12:27]:   MasterBind: (null)
+[00:12:27]:   MasterPort: 10888
+[00:12:27]: [Shard] Connecting to master...
+[00:12:37]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:12:42]: About to start a shard with these settings:
+[00:12:42]:   ShardName: Caves
+[00:12:42]:   ShardID: 1257667657
+[00:12:42]:   ShardRole: SLAVE
+[00:12:42]:   MasterHost: 127.0.0.1
+[00:12:42]:   MasterBind: (null)
+[00:12:42]:   MasterPort: 10888
+[00:12:42]: [Shard] Connecting to master...
+[00:12:52]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:12:57]: About to start a shard with these settings:
+[00:12:57]:   ShardName: Caves
+[00:12:57]:   ShardID: 1257667657
+[00:12:57]:   ShardRole: SLAVE
+[00:12:57]:   MasterHost: 127.0.0.1
+[00:12:57]:   MasterBind: (null)
+[00:12:57]:   MasterPort: 10888
+[00:12:57]: [Shard] Connecting to master...
+[00:13:07]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:13:13]: About to start a shard with these settings:
+[00:13:13]:   ShardName: Caves
+[00:13:13]:   ShardID: 1257667657
+[00:13:13]:   ShardRole: SLAVE
+[00:13:13]:   MasterHost: 127.0.0.1
+[00:13:13]:   MasterBind: (null)
+[00:13:13]:   MasterPort: 10888
+[00:13:13]: [Shard] Connecting to master...
+[00:13:23]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:13:28]: About to start a shard with these settings:
+[00:13:28]:   ShardName: Caves
+[00:13:28]:   ShardID: 1257667657
+[00:13:28]:   ShardRole: SLAVE
+[00:13:28]:   MasterHost: 127.0.0.1
+[00:13:28]:   MasterBind: (null)
+[00:13:28]:   MasterPort: 10888
+[00:13:28]: [Shard] Connecting to master...
+[00:13:38]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:13:43]: About to start a shard with these settings:
+[00:13:43]:   ShardName: Caves
+[00:13:43]:   ShardID: 1257667657
+[00:13:43]:   ShardRole: SLAVE
+[00:13:43]:   MasterHost: 127.0.0.1
+[00:13:43]:   MasterBind: (null)
+[00:13:43]:   MasterPort: 10888
+[00:13:43]: [Shard] Connecting to master...
+[00:13:53]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:13:58]: About to start a shard with these settings:
+[00:13:58]:   ShardName: Caves
+[00:13:58]:   ShardID: 1257667657
+[00:13:58]:   ShardRole: SLAVE
+[00:13:58]:   MasterHost: 127.0.0.1
+[00:13:58]:   MasterBind: (null)
+[00:13:58]:   MasterPort: 10888
+[00:13:58]: [Shard] Connecting to master...
+[00:14:08]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:14:13]: About to start a shard with these settings:
+[00:14:13]:   ShardName: Caves
+[00:14:13]:   ShardID: 1257667657
+[00:14:13]:   ShardRole: SLAVE
+[00:14:13]:   MasterHost: 127.0.0.1
+[00:14:13]:   MasterBind: (null)
+[00:14:13]:   MasterPort: 10888
+[00:14:13]: [Shard] Connecting to master...
+[00:14:23]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:14:28]: About to start a shard with these settings:
+[00:14:28]:   ShardName: Caves
+[00:14:28]:   ShardID: 1257667657
+[00:14:28]:   ShardRole: SLAVE
+[00:14:28]:   MasterHost: 127.0.0.1
+[00:14:28]:   MasterBind: (null)
+[00:14:28]:   MasterPort: 10888
+[00:14:28]: [Shard] Connecting to master...
+[00:14:38]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:14:43]: About to start a shard with these settings:
+[00:14:43]:   ShardName: Caves
+[00:14:43]:   ShardID: 1257667657
+[00:14:43]:   ShardRole: SLAVE
+[00:14:43]:   MasterHost: 127.0.0.1
+[00:14:43]:   MasterBind: (null)
+[00:14:43]:   MasterPort: 10888
+[00:14:43]: [Shard] Connecting to master...
+[00:14:53]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:14:58]: About to start a shard with these settings:
+[00:14:58]:   ShardName: Caves
+[00:14:58]:   ShardID: 1257667657
+[00:14:58]:   ShardRole: SLAVE
+[00:14:58]:   MasterHost: 127.0.0.1
+[00:14:58]:   MasterBind: (null)
+[00:14:58]:   MasterPort: 10888
+[00:14:58]: [Shard] Connecting to master...
+[00:15:08]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:15:13]: About to start a shard with these settings:
+[00:15:13]:   ShardName: Caves
+[00:15:13]:   ShardID: 1257667657
+[00:15:13]:   ShardRole: SLAVE
+[00:15:13]:   MasterHost: 127.0.0.1
+[00:15:13]:   MasterBind: (null)
+[00:15:13]:   MasterPort: 10888
+[00:15:13]: [Shard] Connecting to master...
+[00:15:23]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:15:28]: About to start a shard with these settings:
+[00:15:28]:   ShardName: Caves
+[00:15:28]:   ShardID: 1257667657
+[00:15:28]:   ShardRole: SLAVE
+[00:15:28]:   MasterHost: 127.0.0.1
+[00:15:28]:   MasterBind: (null)
+[00:15:28]:   MasterPort: 10888
+[00:15:28]: [Shard] Connecting to master...
+[00:15:38]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:15:43]: About to start a shard with these settings:
+[00:15:43]:   ShardName: Caves
+[00:15:43]:   ShardID: 1257667657
+[00:15:43]:   ShardRole: SLAVE
+[00:15:43]:   MasterHost: 127.0.0.1
+[00:15:43]:   MasterBind: (null)
+[00:15:43]:   MasterPort: 10888
+[00:15:43]: [Shard] Connecting to master...
+[00:15:53]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:15:58]: About to start a shard with these settings:
+[00:15:58]:   ShardName: Caves
+[00:15:58]:   ShardID: 1257667657
+[00:15:58]:   ShardRole: SLAVE
+[00:15:58]:   MasterHost: 127.0.0.1
+[00:15:58]:   MasterBind: (null)
+[00:15:58]:   MasterPort: 10888
+[00:15:58]: [Shard] Connecting to master...
+[00:16:08]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:16:13]: About to start a shard with these settings:
+[00:16:13]:   ShardName: Caves
+[00:16:13]:   ShardID: 1257667657
+[00:16:13]:   ShardRole: SLAVE
+[00:16:13]:   MasterHost: 127.0.0.1
+[00:16:13]:   MasterBind: (null)
+[00:16:13]:   MasterPort: 10888
+[00:16:13]: [Shard] Connecting to master...
+[00:16:23]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:16:28]: About to start a shard with these settings:
+[00:16:28]:   ShardName: Caves
+[00:16:28]:   ShardID: 1257667657
+[00:16:28]:   ShardRole: SLAVE
+[00:16:28]:   MasterHost: 127.0.0.1
+[00:16:28]:   MasterBind: (null)
+[00:16:28]:   MasterPort: 10888
+[00:16:28]: [Shard] Connecting to master...
+[00:16:38]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:16:43]: About to start a shard with these settings:
+[00:16:43]:   ShardName: Caves
+[00:16:43]:   ShardID: 1257667657
+[00:16:43]:   ShardRole: SLAVE
+[00:16:43]:   MasterHost: 127.0.0.1
+[00:16:43]:   MasterBind: (null)
+[00:16:43]:   MasterPort: 10888
+[00:16:43]: [Shard] Connecting to master...
+[00:16:53]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:16:59]: About to start a shard with these settings:
+[00:16:59]:   ShardName: Caves
+[00:16:59]:   ShardID: 1257667657
+[00:16:59]:   ShardRole: SLAVE
+[00:16:59]:   MasterHost: 127.0.0.1
+[00:16:59]:   MasterBind: (null)
+[00:16:59]:   MasterPort: 10888
+[00:16:59]: [Shard] Connecting to master...
+[00:17:09]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:17:14]: About to start a shard with these settings:
+[00:17:14]:   ShardName: Caves
+[00:17:14]:   ShardID: 1257667657
+[00:17:14]:   ShardRole: SLAVE
+[00:17:14]:   MasterHost: 127.0.0.1
+[00:17:14]:   MasterBind: (null)
+[00:17:14]:   MasterPort: 10888
+[00:17:14]: [Shard] Connecting to master...
+[00:17:24]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:17:29]: About to start a shard with these settings:
+[00:17:29]:   ShardName: Caves
+[00:17:29]:   ShardID: 1257667657
+[00:17:29]:   ShardRole: SLAVE
+[00:17:29]:   MasterHost: 127.0.0.1
+[00:17:29]:   MasterBind: (null)
+[00:17:29]:   MasterPort: 10888
+[00:17:29]: [Shard] Connecting to master...
+[00:17:39]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:17:44]: About to start a shard with these settings:
+[00:17:44]:   ShardName: Caves
+[00:17:44]:   ShardID: 1257667657
+[00:17:44]:   ShardRole: SLAVE
+[00:17:44]:   MasterHost: 127.0.0.1
+[00:17:44]:   MasterBind: (null)
+[00:17:44]:   MasterPort: 10888
+[00:17:44]: [Shard] Connecting to master...
+[00:17:54]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:17:59]: About to start a shard with these settings:
+[00:17:59]:   ShardName: Caves
+[00:17:59]:   ShardID: 1257667657
+[00:17:59]:   ShardRole: SLAVE
+[00:17:59]:   MasterHost: 127.0.0.1
+[00:17:59]:   MasterBind: (null)
+[00:17:59]:   MasterPort: 10888
+[00:17:59]: [Shard] Connecting to master...
+[00:18:09]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:18:14]: About to start a shard with these settings:
+[00:18:14]:   ShardName: Caves
+[00:18:14]:   ShardID: 1257667657
+[00:18:14]:   ShardRole: SLAVE
+[00:18:14]:   MasterHost: 127.0.0.1
+[00:18:14]:   MasterBind: (null)
+[00:18:14]:   MasterPort: 10888
+[00:18:14]: [Shard] Connecting to master...
+[00:18:24]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:18:29]: About to start a shard with these settings:
+[00:18:29]:   ShardName: Caves
+[00:18:29]:   ShardID: 1257667657
+[00:18:29]:   ShardRole: SLAVE
+[00:18:29]:   MasterHost: 127.0.0.1
+[00:18:29]:   MasterBind: (null)
+[00:18:29]:   MasterPort: 10888
+[00:18:29]: [Shard] Connecting to master...
+[00:18:39]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:18:44]: About to start a shard with these settings:
+[00:18:44]:   ShardName: Caves
+[00:18:44]:   ShardID: 1257667657
+[00:18:44]:   ShardRole: SLAVE
+[00:18:44]:   MasterHost: 127.0.0.1
+[00:18:44]:   MasterBind: (null)
+[00:18:44]:   MasterPort: 10888
+[00:18:44]: [Shard] Connecting to master...
+[00:18:54]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:18:59]: About to start a shard with these settings:
+[00:18:59]:   ShardName: Caves
+[00:18:59]:   ShardID: 1257667657
+[00:18:59]:   ShardRole: SLAVE
+[00:18:59]:   MasterHost: 127.0.0.1
+[00:18:59]:   MasterBind: (null)
+[00:18:59]:   MasterPort: 10888
+[00:18:59]: [Shard] Connecting to master...
+[00:19:09]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:19:14]: About to start a shard with these settings:
+[00:19:14]:   ShardName: Caves
+[00:19:14]:   ShardID: 1257667657
+[00:19:14]:   ShardRole: SLAVE
+[00:19:14]:   MasterHost: 127.0.0.1
+[00:19:14]:   MasterBind: (null)
+[00:19:14]:   MasterPort: 10888
+[00:19:14]: [Shard] Connecting to master...
+[00:19:24]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:19:29]: About to start a shard with these settings:
+[00:19:29]:   ShardName: Caves
+[00:19:29]:   ShardID: 1257667657
+[00:19:29]:   ShardRole: SLAVE
+[00:19:29]:   MasterHost: 127.0.0.1
+[00:19:29]:   MasterBind: (null)
+[00:19:29]:   MasterPort: 10888
+[00:19:29]: [Shard] Connecting to master...
+[00:19:39]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:19:44]: About to start a shard with these settings:
+[00:19:44]:   ShardName: Caves
+[00:19:44]:   ShardID: 1257667657
+[00:19:44]:   ShardRole: SLAVE
+[00:19:44]:   MasterHost: 127.0.0.1
+[00:19:44]:   MasterBind: (null)
+[00:19:44]:   MasterPort: 10888
+[00:19:44]: [Shard] Connecting to master...
+[00:19:54]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:19:59]: About to start a shard with these settings:
+[00:19:59]:   ShardName: Caves
+[00:19:59]:   ShardID: 1257667657
+[00:19:59]:   ShardRole: SLAVE
+[00:19:59]:   MasterHost: 127.0.0.1
+[00:19:59]:   MasterBind: (null)
+[00:19:59]:   MasterPort: 10888
+[00:19:59]: [Shard] Connecting to master...
+[00:20:09]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:20:14]: About to start a shard with these settings:
+[00:20:14]:   ShardName: Caves
+[00:20:14]:   ShardID: 1257667657
+[00:20:14]:   ShardRole: SLAVE
+[00:20:14]:   MasterHost: 127.0.0.1
+[00:20:14]:   MasterBind: (null)
+[00:20:14]:   MasterPort: 10888
+[00:20:14]: [Shard] Connecting to master...
+[00:20:24]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:20:29]: About to start a shard with these settings:
+[00:20:29]:   ShardName: Caves
+[00:20:29]:   ShardID: 1257667657
+[00:20:29]:   ShardRole: SLAVE
+[00:20:29]:   MasterHost: 127.0.0.1
+[00:20:29]:   MasterBind: (null)
+[00:20:29]:   MasterPort: 10888
+[00:20:29]: [Shard] Connecting to master...
+[00:20:39]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:20:44]: About to start a shard with these settings:
+[00:20:44]:   ShardName: Caves
+[00:20:44]:   ShardID: 1257667657
+[00:20:44]:   ShardRole: SLAVE
+[00:20:44]:   MasterHost: 127.0.0.1
+[00:20:44]:   MasterBind: (null)
+[00:20:44]:   MasterPort: 10888
+[00:20:44]: [Shard] Connecting to master...
+[00:20:54]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:21:00]: About to start a shard with these settings:
+[00:21:00]:   ShardName: Caves
+[00:21:00]:   ShardID: 1257667657
+[00:21:00]:   ShardRole: SLAVE
+[00:21:00]:   MasterHost: 127.0.0.1
+[00:21:00]:   MasterBind: (null)
+[00:21:00]:   MasterPort: 10888
+[00:21:00]: [Shard] Connecting to master...
+[00:21:10]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:21:15]: About to start a shard with these settings:
+[00:21:15]:   ShardName: Caves
+[00:21:15]:   ShardID: 1257667657
+[00:21:15]:   ShardRole: SLAVE
+[00:21:15]:   MasterHost: 127.0.0.1
+[00:21:15]:   MasterBind: (null)
+[00:21:15]:   MasterPort: 10888
+[00:21:15]: [Shard] Connecting to master...
+[00:21:25]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:21:30]: About to start a shard with these settings:
+[00:21:30]:   ShardName: Caves
+[00:21:30]:   ShardID: 1257667657
+[00:21:30]:   ShardRole: SLAVE
+[00:21:30]:   MasterHost: 127.0.0.1
+[00:21:30]:   MasterBind: (null)
+[00:21:30]:   MasterPort: 10888
+[00:21:30]: [Shard] Connecting to master...
+[00:21:40]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:21:45]: About to start a shard with these settings:
+[00:21:45]:   ShardName: Caves
+[00:21:45]:   ShardID: 1257667657
+[00:21:45]:   ShardRole: SLAVE
+[00:21:45]:   MasterHost: 127.0.0.1
+[00:21:45]:   MasterBind: (null)
+[00:21:45]:   MasterPort: 10888
+[00:21:45]: [Shard] Connecting to master...
+[00:21:55]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:22:00]: About to start a shard with these settings:
+[00:22:00]:   ShardName: Caves
+[00:22:00]:   ShardID: 1257667657
+[00:22:00]:   ShardRole: SLAVE
+[00:22:00]:   MasterHost: 127.0.0.1
+[00:22:00]:   MasterBind: (null)
+[00:22:00]:   MasterPort: 10888
+[00:22:00]: [Shard] Connecting to master...
+[00:22:10]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:22:15]: About to start a shard with these settings:
+[00:22:15]:   ShardName: Caves
+[00:22:15]:   ShardID: 1257667657
+[00:22:15]:   ShardRole: SLAVE
+[00:22:15]:   MasterHost: 127.0.0.1
+[00:22:15]:   MasterBind: (null)
+[00:22:15]:   MasterPort: 10888
+[00:22:15]: [Shard] Connecting to master...
+[00:22:25]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:22:30]: About to start a shard with these settings:
+[00:22:30]:   ShardName: Caves
+[00:22:30]:   ShardID: 1257667657
+[00:22:30]:   ShardRole: SLAVE
+[00:22:30]:   MasterHost: 127.0.0.1
+[00:22:30]:   MasterBind: (null)
+[00:22:30]:   MasterPort: 10888
+[00:22:30]: [Shard] Connecting to master...
+[00:22:40]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:22:45]: About to start a shard with these settings:
+[00:22:45]:   ShardName: Caves
+[00:22:45]:   ShardID: 1257667657
+[00:22:45]:   ShardRole: SLAVE
+[00:22:45]:   MasterHost: 127.0.0.1
+[00:22:45]:   MasterBind: (null)
+[00:22:45]:   MasterPort: 10888
+[00:22:45]: [Shard] Connecting to master...
+[00:22:55]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:23:00]: About to start a shard with these settings:
+[00:23:00]:   ShardName: Caves
+[00:23:00]:   ShardID: 1257667657
+[00:23:00]:   ShardRole: SLAVE
+[00:23:00]:   MasterHost: 127.0.0.1
+[00:23:00]:   MasterBind: (null)
+[00:23:00]:   MasterPort: 10888
+[00:23:00]: [Shard] Connecting to master...
+[00:23:10]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:23:15]: About to start a shard with these settings:
+[00:23:15]:   ShardName: Caves
+[00:23:15]:   ShardID: 1257667657
+[00:23:15]:   ShardRole: SLAVE
+[00:23:15]:   MasterHost: 127.0.0.1
+[00:23:15]:   MasterBind: (null)
+[00:23:15]:   MasterPort: 10888
+[00:23:15]: [Shard] Connecting to master...
+[00:23:25]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:23:30]: About to start a shard with these settings:
+[00:23:30]:   ShardName: Caves
+[00:23:30]:   ShardID: 1257667657
+[00:23:30]:   ShardRole: SLAVE
+[00:23:30]:   MasterHost: 127.0.0.1
+[00:23:30]:   MasterBind: (null)
+[00:23:30]:   MasterPort: 10888
+[00:23:30]: [Shard] Connecting to master...
+[00:23:40]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:23:45]: About to start a shard with these settings:
+[00:23:45]:   ShardName: Caves
+[00:23:45]:   ShardID: 1257667657
+[00:23:45]:   ShardRole: SLAVE
+[00:23:45]:   MasterHost: 127.0.0.1
+[00:23:45]:   MasterBind: (null)
+[00:23:45]:   MasterPort: 10888
+[00:23:45]: [Shard] Connecting to master...
