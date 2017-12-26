@@ -1,3 +1,7 @@
+local conf_winter_tree = GetModConfigData("winter_tree")
+local conf_glowcap = GetModConfigData("glowcap")
+local conf_mushlight = GetModConfigData("mushlight")
+
 local function setItemPause(item, pause)
     if item ~= nil then
         -- c_announce("setItemPause: "..(item.prefab and item.prefab or 'noname').." "..tostring(pause))
@@ -35,5 +39,14 @@ local function AddEternalFn(inst)
     end
 end
 
-AddPrefabPostInit('mushroom_light', AddEternalFn)
-AddPrefabPostInit('mushroom_light2', AddEternalFn)
+if conf_mushlight == 1 then
+    AddPrefabPostInit('mushroom_light', AddEternalFn)
+end
+
+if conf_glowcap == 1 then
+    AddPrefabPostInit('mushroom_light2', AddEternalFn)
+end
+
+if conf_winter_tree == 1 then
+    AddPrefabPostInit('winter_tree', AddEternalFn)
+end
