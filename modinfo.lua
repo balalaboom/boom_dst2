@@ -1,5 +1,5 @@
 name = "Eternal Glowcaps & Mushlights"
-version = "17.12.26"
+version = "18.1.2"
 author = "adai1198"
 description = "Version: "..version.."\n"..
 "\n"..

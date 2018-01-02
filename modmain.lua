@@ -49,4 +49,6 @@ end
 
 if conf_winter_tree == 1 then
     AddPrefabPostInit('winter_tree', AddEternalFn)
+    AddPrefabPostInit('winter_deciduoustree', AddEternalFn)
+    AddPrefabPostInit('winter_twiggytree', AddEternalFn)
 end
